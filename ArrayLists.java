@@ -22,7 +22,7 @@ public class ArrayLists {
     	for(Object n:nums)
     	{
     		int num=(Integer)n;
-    		System.out.println(nums);	
+    		System.out.println(num);	
     	}
     }
 }
